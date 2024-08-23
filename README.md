@@ -15,11 +15,11 @@ python3 download_keys.py
 
 ## Аргументы командной строки
 ```
-download_keys.py [--out-file <путь к файлу>]
-                 [--format <txt|csv>]
+download_keys.py [--out-file <путь к файлу (по умолчанию keys.txt)>]
+                 [--format <txt|csv (по умолчанию txt)>]
                  [--count <количество ключей>]
                  [--country <название страны>]
-                 [--delim <разделитель полей в CSV>]
+                 [--delim <разделитель полей в CSV (по умолчанию ";")>]
 ```
 
 Название страны можно получить из URL, например `https://outlinekeys.com/country/usa/ ==> usa`
