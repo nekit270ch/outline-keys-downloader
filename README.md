@@ -3,7 +3,7 @@
 
 ## Запуск
 Для работы скрипта необходим Python версии 3.10 или выше.
-ли
+
 ### Windows
 ```
 python download_keys.py
